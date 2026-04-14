@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f23f95aa-dbd0-4d88-a647-11d0a4aaf2d1",
+  "id_short": 668775,
+  "published_at": "2026-04-14T19:35:02Z",
+  "repo_name": "restaurant-social-ghosts-in-iowa-us-sample-668775",
+  "sample_asset_name": "beamstation_668775_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/668775/beamstation_668775_restaurants-us-ia_SAMPLE_DIST.csv",
+  "sample_records": 8,
+  "sample_sha256": "600e101277b4f24e46c1011b0b1046b38e4f0ef1f74fe3022b86ff409b1a3cd5",
+  "sample_size_bytes": 43762,
+  "total_records": 81
+}
