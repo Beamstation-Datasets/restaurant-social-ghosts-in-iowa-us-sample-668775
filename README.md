@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 81 records |
 | Free sample size | 8 records (9.88%) |
-| Last export | 2026-04-08T07:38:25.937515+00:00 |
+| Last export | 2026-04-15T10:57:11.035896+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-iowa-us-sample-668775/releases/download/sample-latest/beamstation_668775_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
