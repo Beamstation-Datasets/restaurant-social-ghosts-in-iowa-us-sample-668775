@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Iowa, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `668775` |
 | Location | Iowa |
 | Category | Restaurants |
-| Full dataset size | 10 records |
-| Free sample size | 1 records (10.0%) |
-| Last export | 2026-04-22T19:03:02.040090+00:00 |
+| Full dataset size | 62 records |
+| Free sample size | 6 records (9.68%) |
+| Last export | 2026-04-29T18:11:00.172118+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-iowa-us-sample-668775/releases/download/sample-latest/beamstation_668775_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
